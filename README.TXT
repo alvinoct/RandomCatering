@@ -7,3 +7,9 @@ Lalu, di bawah tabel tersebut terdapat section untuk mengacak menu makanan (untu
 NOTE : Pada Tombol Randomize direkomendasikan 2x klik agar lebih cepat dalam prosesnya.
 
 Pada halaman About Us terdapat slide mengenai anggota kelompok yang membuat project web random catering, slide tersebut dapat digeser kiri dan kanan menggunakan tombol yang tersedia dan juga dapat melihat slide lain dengan klik bullet pada bawah slide. 
+
+Group Project:
+-Alvin Octavianus
+-Vinsesius Adrian Cahyadi
+-Reyhan Phillies Wijaya
+-Necoles
